@@ -4,7 +4,6 @@ jupyter:
     text_representation:
       extension: .Rmd
       format_name: rmarkdown
-      jupytext_formats: ipynb,Rmd:rmarkdown
       format_version: '1.0'
       jupytext_version: 0.8.6
   kernelspec:
@@ -12,6 +11,10 @@ jupyter:
     language: python
     name: python3
 ---
+
+```{python}
+### Small change to TestCluster
+```
 
 ```{python}
 # %autosave 0
